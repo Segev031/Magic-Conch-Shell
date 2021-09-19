@@ -1,0 +1,6 @@
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/conch_shell.png"
+  adaptive_icon_background: "caa0d0"
+  remove_alpha_ios: true
